@@ -74,7 +74,7 @@ The data has been split into two groups:
                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;color:black;'>sibsp</span></p>
             </td>
             <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 6.75pt 18pt 5.25pt;height: 11.55pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;color:black;'># of siblings / ******* aboard the Titanic</span></p>
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;color:black;'># of siblings / spouses  aboard the Titanic</span></p>
             </td>
             <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 6.75pt 18pt 5.25pt;height: 11.55pt;vertical-align: top;"><br></td>
         </tr>
@@ -83,7 +83,7 @@ The data has been split into two groups:
                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;color:black;'>parch</span></p>
             </td>
             <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 6.75pt 18pt 5.25pt;height: 11.55pt;vertical-align: top;">
-                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;color:black;'># of parents / children ****** the Titanic</span></p>
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;color:black;'># of parents / children abroad the Titanic</span></p>
             </td>
             <td style="border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 6.75pt 18pt 5.25pt;height: 11.55pt;vertical-align: top;"><br></td>
         </tr>
