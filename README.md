@@ -1,12 +1,8 @@
 <p align="center">
    <h1> Titanic Disaster Survival Prediction </h1>
 </p>
+
 <p align="center">
-    <a href="https://docs.amplication.com/docs/">Docs</a> <a href="https://twitter.com/amplication">Twitter</a>
-</p>
-<p align="center">
-  <img src="https://github.com/amplication/amplication/workflows/Node.js%20CI/badge.svg" alt="Node.js CI">
-  <a href="https://discord.gg/Z2CG3rUFnu">
     <img src="https://img.shields.io/discord/757179260417867879?label=discord" alt="Discord">
   </a>
   <a href="code_of_conduct.md">
