@@ -1,4 +1,4 @@
-# Titanic_Survival_Prediction
+<h1>! Titanic Survival Prediction </h1>
 This is Machine Learning model to predict survival of passanger on titanic.
 <h1 style="color:red"> Steps Involved </h1>
 <ul>
