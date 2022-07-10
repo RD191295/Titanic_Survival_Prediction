@@ -1,5 +1,5 @@
 <p align="center">
-   <h1> Titanic Disaster Survival Prediction
+   <h1> Titanic Disaster Survival Prediction </h1>
 </p>
 <p align="center">
     <a href="https://docs.amplication.com/docs/">Docs</a> <a href="https://twitter.com/amplication">Twitter</a>
