@@ -1,8 +1,5 @@
 <p align="center">
-
-  <a href="https://amplication.com" target="_blank">
-    <img alt="amplication-logo" height="70" alt="Amplication Logo" src="https://amplication.com/images/amplication-logo-purple.svg"/>
-  </a>
+   <h1> Titanic Disaster Survival Prediction
 </p>
 <p align="center">
     <a href="https://docs.amplication.com/docs/">Docs</a> <a href="https://twitter.com/amplication">Twitter</a>
