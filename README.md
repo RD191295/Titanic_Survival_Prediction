@@ -4,6 +4,8 @@
 
 <p> 
    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/downloads-pre/RD191295/Titanic_Survival_Prediction/V0.0.1-alpha/total">
+   
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RD191295/Titanic_Survival_Prediction">
 </p>
 
 This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of Machine Learning. This IPython Notebook provide EDA, Visualization of Data , Data Cleaning ,Feature engineering and Model buliding with hyper parameter optimization
