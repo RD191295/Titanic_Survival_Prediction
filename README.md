@@ -13,15 +13,13 @@ This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Ma
 
 Ipython Notebook Cover following Steps:
 
-- Data models managed visually or through CLI
-- Auto-generated human-editable source code
-- Node.js server built with Nest.js and Passport
-- REST API and GraphQL for CRUD with relations, sorting, filtering, pagination
-- Custom code generated app
-- Admin UI built with React-Admin
-- Role-based access control
-- Docker and docker-compose integration
-- Automatic push of the generated code to your GitHub repo
+- Data Import 
+- Data Cleaning
+- Exploring Data and visualization
+- Feature Engineering
+- Create Machine Learning Model
+- Hyperparameter Optimization
+- Testing Model
 
 
 ## Have Doubt ???
