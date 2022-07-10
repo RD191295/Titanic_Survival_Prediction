@@ -2,10 +2,10 @@
    <h1> Titanic Disaster Survival Prediction </h1>
 </p>
 
-<p>
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/RD191295/Titanic_Survival_Prediction/V0.0.1-alpha/total">
-</p>](https://img.shields.io/github/downloads-pre/RD191295/Titanic_Survival_Prediction/V0.0.1-alpha/total)
-  
+<p> 
+   <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/downloads-pre/RD191295/Titanic_Survival_Prediction/V0.0.1-alpha/total">
+</p>
+
 This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of Machine Learning. This IPython Notebook provide EDA, Visualization of Data , Data Cleaning ,Feature engineering and Model buliding with hyper parameter optimization
 
 # Steps in Ipython Notebook
